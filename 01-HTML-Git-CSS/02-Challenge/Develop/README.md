@@ -1,0 +1,2 @@
+# Code Refactor
+Made Horiseon's webpage more accessible for individuals with disabilities such as the visually impaired. I simplified the HTML structure for search engine optimization.  Create a user-friendly website. I created HTML classes that could be used to consolidate CSS selectors and properties into cleaner and more readable code. 
